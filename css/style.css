@@ -44,3 +44,12 @@ h2 + p {
 strong {
     font-weight: 900;
 }
+
+/* intro section */
+
+.intro {
+    background-image: url(/images/dark-ribs.jpg);
+    padding: 5em .25em;
+    display: flex;
+    flex-direction: column;
+}
