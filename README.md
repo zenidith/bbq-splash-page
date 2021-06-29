@@ -1,6 +1,6 @@
 In this project, I worked further on my front end CSS skills. 
 
-*  line-height
+* line-height
 * text-transform
 * letter-spacing 
 * viewport units
@@ -12,4 +12,6 @@ In this project, I worked further on my front end CSS skills.
 * inputs 
 * buttons
 
-<!-- This project is live and is hosted [here] -->
+This project is live and is hosted [here](https://zenidith.github.io/bbq-splash-page/)
+
+Happy coding!
